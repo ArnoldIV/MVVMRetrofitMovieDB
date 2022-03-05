@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVVM Retrofit Movie DB</string>
+    <string name="api_key">c59b87d0d2497518247a1253110205da</string>
+</resources>
